@@ -1,6 +1,6 @@
 # ParkingSystem
 
--Parkinglot.py hold the code 
+-Parkinglot.py holds the code 
 
 
 
